@@ -1,5 +1,5 @@
 # Agrotech_Insights
-#Overview
+Overview:
 This project is designed to help farmers and agricultural experts recommend the most suitable crops to grow based on various environmental and soil parameters. By leveraging machine learning algorithms, this system aims to optimize crop selection, enhance yield, and promote sustainable farming practices.
 Features
 Data-Driven Recommendations: Utilizes historical data and current conditions to provide accurate crop recommendations.
